@@ -1,0 +1,2 @@
+# Payload-Weight-Estimation-for-Back-Exoskeleton-with-GRU-attention-mechanism-or-CNN
+This is the project file for "A Novel Wearable Technique for Low-back Exoskeletons Adaptive Control, Payload Weight Estimation and Event Recognition",including Wrist Band Device's STM32 controller's code and the Neural Network code under tensorflow structure. The code for the Back-exoskeleton is not shared due to lab's restrictions. 
